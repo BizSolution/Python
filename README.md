@@ -1,4 +1,0 @@
-Python
-======
-
-Something about Python
